@@ -5,7 +5,7 @@ return {
     config = function()
       require("onedarkpro").setup {
         colors = {
-          bg = "#08090d", -- тёмно-синий фон
+          bg = "#000000", -- тёмно-синий фон
           fg = "#c5c8c9",
           blue = "#61afef",
           cyan = "#56b6c2",
